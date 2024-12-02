@@ -74145,7 +74145,7 @@ j=A.d5(j.c+"/Tips",0,null)
 e=t.z
 j=A.aqc(null,null,null,i,g,f,!1,null,"public",j,e,e,e)
 A.ek("supabase.postgrest")
-i=A.ao(["Tip Amount",m,'"Business ID"',n.r],h,t.X)
+i=A.ao(["Tip Amount",m,"Business ID",n.r],h,t.X)
 h=A.cP(j.b,h,h)
 h.n(0,"Prefer","")
 g=t.MC
