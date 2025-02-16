@@ -1,1 +1,14 @@
+#para {
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+}
 
+#tit {
+  color: white;
+  font-family: Arial;
+}
+
+body {
+  background-color: #333333;
+}
